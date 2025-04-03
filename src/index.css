@@ -16,3 +16,16 @@ body,
 body {
   padding: 0.5rem;
 }
+
+.image-credit {
+  color: gray;
+  position: fixed;
+  bottom: 0.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.75rem;
+}
+
+.image-credit a {
+  color: gray;
+}
